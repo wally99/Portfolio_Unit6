@@ -1,9 +1,9 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://wallpapercave.com/wp/UoQbFHi.jpg");
       background-size: cover;
       color: white;
-    }
+      font-family: monospace    }
     .nav {
       color: white;
     }
@@ -37,4 +37,5 @@
         padding: 5px;
         display: block;
       }
+    
     }
